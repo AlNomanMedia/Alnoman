@@ -271,10 +271,10 @@
       "categoryImage": "http://via.placeholder.com/350x150",
       "books": [
         {
-          "bookName": "Book 1z - Non-Fiction",
-          "author": "Author 11z",
-          "image_url": "http://via.placeholder.com/350x150",
-          "pdf_url": "mybook_name.pdf",
+          "bookName": "الکلام المفید فی اثبات التقلید",
+          "author": "مولانا سرفراز خان صفدر",
+          "image_url": "https://ia601904.us.archive.org/24/items/al-kalam-ul-mufeed-hdr-pasbanehaq-1/__ia_thumb.jpg",
+          "pdf_url": "https://archive.org/download/al-kalam-ul-mufeed/Al%20Kalam%20ul%20Mufeed.pdf",
           "details": "urdu",
           "sections": []
         },
