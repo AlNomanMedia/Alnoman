@@ -286,6 +286,14 @@
           "details": "urdu",
           "sections": []
         },
+	{
+          "bookName": "الفرقان",
+          "author": "Author 11z",
+          "image_url": "http://via.placeholder.com/350x150",
+          "pdf_url": "mybook_name.pdf",
+          "details": "urdu",
+          "sections": []
+        },
         {
           "bookName": "ترک تقلید ایک بدعت ہے",
           "author": "مولانا طاہر حسین گیاوی",
